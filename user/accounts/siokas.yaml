@@ -1,0 +1,11 @@
+email: apostolossiokas@gmail.com
+fullname: 'Apostolos Siokas'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$uhvZWZ7y6ni2kWdYskZ4nOH4awezGci1iqe/zplYZn8r3dIQfe/0.

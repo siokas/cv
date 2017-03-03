@@ -1,0 +1,33 @@
+title: 'Siokas Apostolos'
+default_lang: en
+author:
+  name: siokas
+  email: apostolossiokas@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Apostolos Siokas CV'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+description: 'Web & Mobile Developer'
+website: siokas.com
+address:
+  -
+    line: 'Al. Zaimi 24C'
+  -
+    line: 'Pylaia, 55535'
+  -
+    line: 'Thessaloniki, Greece'
+contact:
+  -
+    line: apostolossiokas@gmail.com
+  -
+    line: '+30 6981-194439'
+  -
+    line: '@siokas_'
