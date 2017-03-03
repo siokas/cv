@@ -19,7 +19,8 @@ class __TwigTemplate_b439e39bba414240388fda6ede2d47c48e0cfebed275f2930b856f2cb30
         echo "<div class=\"row footer\">
    <div class=\"large-12 small-12 medium-12 text-center \">
     <div class=\"border text-center \"></div>
-    <p class=\"copyright\">Design by <a href=\"https://www.behance.net/fbaezb\">Fernando Baez</a>. Coding & Implementation by <a href=\"http://www.getgrav.org\">GRAV</a> team.</p>
+    <p class=\"copyright\">Copyright © 2017 Siokas</p>
+    <p class=\"copyright\">Theme by <a href=\"https://www.behance.net/fbaezb\">Fernando Baez</a>. Coding & Implementation by <a href=\"http://www.getgrav.org\">GRAV</a> team.</p>
    </div>
 </div>";
     }
@@ -47,7 +48,8 @@ class __TwigTemplate_b439e39bba414240388fda6ede2d47c48e0cfebed275f2930b856f2cb30
         return new Twig_Source("<div class=\"row footer\">
    <div class=\"large-12 small-12 medium-12 text-center \">
     <div class=\"border text-center \"></div>
-    <p class=\"copyright\">Design by <a href=\"https://www.behance.net/fbaezb\">Fernando Baez</a>. Coding & Implementation by <a href=\"http://www.getgrav.org\">GRAV</a> team.</p>
+    <p class=\"copyright\">Copyright © 2017 Siokas</p>
+    <p class=\"copyright\">Theme by <a href=\"https://www.behance.net/fbaezb\">Fernando Baez</a>. Coding & Implementation by <a href=\"http://www.getgrav.org\">GRAV</a> team.</p>
    </div>
 </div>", "partials/footer.html.twig", "/Users/apostolossiokas/Documents/cv/user/themes/resume/templates/partials/footer.html.twig");
     }
